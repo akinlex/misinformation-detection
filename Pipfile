@@ -1,0 +1,22 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+django = "*"
+pandas = "*"
+numpy = "*"
+lexicalrichness = "*"
+sklearn = "*"
+textblob = "*"
+requests = "*"
+beautifulsoup4 = "*"
+nltk = "*"
+bs4 = "*"
+django-mathfilters = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.6"
